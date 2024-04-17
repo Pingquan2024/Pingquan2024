@@ -26,8 +26,18 @@ I am a student, currently learning C++/Linux, hope to find a favorite job after 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pingquan2024&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pingquan2024&theme=nightowl&hide_border=false)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Pingquan2024&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) -->
+
+<p align="center">
+  <img height="150" width="150" src="https://raw.githubusercontent.com/hanzelkaraagac/hanzelkaraagac/main/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pingquan2024&theme=nightowl&hide_border=false"/>
+  <img height="150" width="150" src="https://raw.githubusercontent.com/hanzelkaraagac/hanzelkaraagac/main/WEBP/right.webp">
+</p>
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Pingquan2024&theme=nightowl&hide_border=false) -->
+
+
+
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pingquan2024&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ## 🏆 GitHub Trophies
